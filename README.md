@@ -18,7 +18,7 @@ With a strong foundation in **Python**, **SQL**, and **data visualization**, I�
 
 ---
 
-### 📂 Portfolio Highlights
+### 📂 Experiance Highlights
 
 #### 🌐 [PT Garudafood Putra Putri Jaya Tbk (PPIC Intern, Sep 2023 – Dec 2023)]  
 - Created **two dashboards** to enhance data visibility and support decision-making processes.
